@@ -1,0 +1,27 @@
+{
+  "name": "appws",
+  "description": "Crowdcast work sample",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crowdcast/app-ws.git"
+  },
+  "keywords": [
+    "crowdcast"
+  ],
+  "author": "Mathieu Cassagnes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crowdcast/app-ws/issues"
+  },
+  "homepage": "https://github.com/crowdcast/app-ws#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  },
+  "devDependencies": {}
+}
