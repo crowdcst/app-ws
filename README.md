@@ -2,7 +2,7 @@
 
 Work sample to be completed to apply for the engineer position at Crowdcast.
 
-## Todo: Almost everything, most importantly decide on an actual challenge.
+## Work in progress.
 
 ## Context
 
