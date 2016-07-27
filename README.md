@@ -42,13 +42,13 @@ returns a single user with complete profile data
 ```
 
 ```
-POST /follower
+POST /follow
 data: { username: usernameToFollow }
 Follows a given user
 ```
 
 ```
-DELETE /follower
+DELETE /follow
 data: { username: usernameToUnfollow }
 Unfollows a given user
 ```
