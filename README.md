@@ -46,16 +46,16 @@ As a general rule, you own this app and can structure it however you want. This 
 
 **Use the tools and libraries you enjoy using.**
 
-#### Aesthetics
+### Aesthetics
 
 Your presentation should be something you're proud of. The user-experience and aesthetic aspects should be well considered. We're not expecting an exceptionally well designed with Crowdcast's branding applied, but a generally sound user experience is.
 
-#### Feature: Display list of users
+### Feature: Display list of users
 
 This is the landing page of your application. It should simply display a list of users along with their basic information.
 
 
-#### Feature: Popover to show complete user profile.
+### Feature: Popover to show complete user profile.
 
 Interacting with one of the users in your list (click / hover / etc, you decide) should show a popover (modal) with more information about the user.
 
