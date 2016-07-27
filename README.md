@@ -29,6 +29,8 @@ npm start
 
 #### Accessing stuff
 
+Fetch user profiles from our service hosted at `https://crowdcast-ws.herokuapp.com/`
+
 ```
 GET /users
 returns a list of users with basic profile data
