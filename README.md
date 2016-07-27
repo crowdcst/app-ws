@@ -41,6 +41,18 @@ GET /users/:id
 returns a single user with complete profile data
 ```
 
+```
+POST /follow
+data: { username: usernameToFollow }
+Follows a given user
+```
+
+```
+DELETE /follow
+data: { username: usernameToUnfollow }
+Unfollows a given user
+```
+
 
 ## What's expected of you
 
