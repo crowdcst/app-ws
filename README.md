@@ -21,7 +21,9 @@ We created a small service (hosted at:https://crowdcast-ws.herokuapp.com/) which
 
 #### Starting up
 
-The server listens to localhost:3101
+The server listens to localhost:3101 and watches any `.js, .scss` in `client/app`.
+All code you write should be inside `client/app`. You can structure the subfolders however you want, though.
+When adding or deleting files, you will need to restart the server.
 
 ```
 npm start
