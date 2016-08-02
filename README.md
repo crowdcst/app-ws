@@ -48,8 +48,7 @@ Follows a given user
 ```
 
 ```
-DELETE /follow
-data: { username: usernameToUnfollow }
+DELETE /follow?username=usernameToUnfollow
 Unfollows a given user
 ```
 
