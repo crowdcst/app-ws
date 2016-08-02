@@ -10,7 +10,7 @@ The app in this repository is an Angular app served from a Node server.
 
 To test your abilities, we've created a **very** incomplete app which has the responsibility of exposing a UI to our users for browsing a list of blogger's profiles.
 
-We created a small service (hosted at:https://crowdcast-ws.herokuapp.com/) which provides basic user profiles. All of this is fake and modeled to work with this app. All users are randomly generated, therefore please do not get offended by any weird data you may encounter.
+We created a small service (hosted at:https://crowdcast-ws.herokuapp.com/) which provides basic user profiles. All of this is fake and modeled to work with this app. All profiles are fake.
 
 ## Setup
 
