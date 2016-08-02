@@ -10,7 +10,7 @@ The app in this repository is an Angular app served from a Node server.
 
 To test your abilities, we've created a **very** incomplete app which has the responsibility of exposing a UI to our users for browsing a list of blogger's profiles.
 
-We created a small service (hosted at:https://crowdcast-ws.herokuapp.com/) which provides basic user profiles. All of this is fake and modeled to work with this app. All users are randomly generated, therefore please do not get offended by any weird data you may encounter.
+We created a small service (hosted at:https://crowdcast-ws.herokuapp.com/) which provides basic user profiles. All of this is fake and modeled to work with this app. All profiles are fake.
 
 ## Setup
 
@@ -41,10 +41,21 @@ GET /users/:id
 returns a single user with complete profile data
 ```
 
+```
+POST /follow
+data: { username: usernameToFollow }
+Follows a given user
+```
+
+```
+DELETE /follow?username=usernameToUnfollow
+Unfollows a given user
+```
+
 
 ## What's expected of you
 
-As a general rule, you own this app and can structure it however you want. This **could** mean reorganizing things and **probably** means adding routes, controllers, models, and specs as you feel is necessary.
+As a general rule, you own this app and can structure it however you want. This **could** mean reorganizing things and **probably** means adding routes, controllers, models, and specs as you feel is necessary. ES6 is strongly encouraged.
 
 **Use the tools and libraries you enjoy using.**
 
@@ -61,4 +72,6 @@ This is the landing page of your application. It should simply display a list of
 
 Interacting with one of the users in your list (click / hover / etc, you decide) should show a popover (modal) with more information about the user.
 
-![Example popover](https://trello-attachments.s3.amazonaws.com/576b08811b5fedaf32fea24a/371x328/3799e4fc514bc9b0ff5bcf85402f550b/Screen_Shot_2016-07-13_at_6.06.49_PM.png)
+### Example mock
+
+![Example popover](https://trello-attachments.s3.amazonaws.com/579182e882266b53598c9b68/998x578/a3dcd6d6d76598e1c3287c7521f55224/Balsamiq_Mockups_For_Desktop_-__Users_dylanjhaveri_Dropbox_Crowdcast_app-ws_bmml.png)
