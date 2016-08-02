@@ -55,7 +55,7 @@ Unfollows a given user
 
 ## What's expected of you
 
-As a general rule, you own this app and can structure it however you want. This **could** mean reorganizing things and **probably** means adding routes, controllers, models, and specs as you feel is necessary.
+As a general rule, you own this app and can structure it however you want. This **could** mean reorganizing things and **probably** means adding routes, controllers, models, and specs as you feel is necessary. ES6 is strongly encouraged.
 
 **Use the tools and libraries you enjoy using.**
 
