@@ -20,6 +20,14 @@ We created a small service (hosted at:https://crowdcast-ws.herokuapp.com/) which
 - Angular 1.5.3
 
 #### Starting up
+
+The best way to work is by cloning the code to your local machine. *Do not fork the code base to a public repo* - we don't want people claiming your work as their own.
+
+```
+// only on initial setup
+npm install
+```
+
 ```
 npm start
 ```
