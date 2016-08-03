@@ -6,3 +6,4 @@ build
 Vagrantfile
 .vm
 .vagrant
+dist
