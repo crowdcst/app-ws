@@ -82,4 +82,4 @@ Interacting with one of the users in your list (click / hover / etc, you decide)
 
 ### Example mock
 
-![Example popover](https://trello-attachments.s3.amazonaws.com/579182e882266b53598c9b68/998x578/a3dcd6d6d76598e1c3287c7521f55224/Balsamiq_Mockups_For_Desktop_-__Users_dylanjhaveri_Dropbox_Crowdcast_app-ws_bmml.png)
+![Example popover](https://raw.githubusercontent.com/crowdcst/app-ws/master/example-popover.png)
