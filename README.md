@@ -82,4 +82,4 @@ Interacting with one of the users in your list (click / hover / etc, you decide)
 
 ### Example mock
 
-![Example popover](https://raw.githubusercontent.com/crowdcst/app-ws/master/example-popover.png)
+![Example popover](example-popover.png)
