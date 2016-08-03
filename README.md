@@ -20,6 +20,14 @@ We created a small service (hosted at:https://crowdcast-ws.herokuapp.com/) which
 - Angular 1.5.3
 
 #### Starting up
+
+The best way to work is by cloning the code to your local machine. *Do not fork the code base to a public repo* - we don't want people claiming your work as their own.
+
+```
+// only on initial setup
+npm install
+```
+
 ```
 npm start
 ```
@@ -74,4 +82,4 @@ Interacting with one of the users in your list (click / hover / etc, you decide)
 
 ### Example mock
 
-![Example popover](https://trello-attachments.s3.amazonaws.com/579182e882266b53598c9b68/998x578/a3dcd6d6d76598e1c3287c7521f55224/Balsamiq_Mockups_For_Desktop_-__Users_dylanjhaveri_Dropbox_Crowdcast_app-ws_bmml.png)
+![Example popover](example-popover.png)
