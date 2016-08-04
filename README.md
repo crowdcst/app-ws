@@ -69,7 +69,7 @@ As a general rule, you own this app and can structure it however you want. This 
 
 ### Aesthetics
 
-Your presentation should be something you're proud of. The user-experience and aesthetic aspects should be well considered. We're not expecting an exceptionally well designed with Crowdcast's branding applied, but a generally sound user experience is.
+Your presentation should be something you're proud of. The user-experience and aesthetic aspects should be well considered. We're not expecting an exceptionally well designed app with Crowdcast's branding applied, but a generally sound user experience is.
 
 ### Feature: Display list of users
 
